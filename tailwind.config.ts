@@ -8,6 +8,11 @@ export default {
       fontFamily: {
         sans: ["var(--font-geist-sans)", ...fontFamily.sans],
       },
+      colors: {
+        permitMidnight: "#0f1035",
+        permitBlue: "#0a7aff",
+        permitYellow: "#f8ae0b",
+      },
     },
   },
   plugins: [],
